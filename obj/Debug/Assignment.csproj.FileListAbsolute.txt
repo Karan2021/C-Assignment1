@@ -1,0 +1,2 @@
+C:\Users\Karan Srinivas\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\Karan Srinivas\source\repos\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
